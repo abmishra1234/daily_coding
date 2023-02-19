@@ -11,6 +11,7 @@ namespace Daily_Coding_CSharp
     {
         static void Main(string[] args)
         {
+            //-----------------------------
             // Do the Practice for CSharp Coding here
             const int size = 10000;
             List<int> li = new List<int>();
@@ -28,6 +29,16 @@ namespace Daily_Coding_CSharp
             sw.Stop();
 
             Console.WriteLine("with capacity init" + sw.ElapsedTicks);
+
+            //-----------------------------
+            // Lets declare normal array
+            
+            int[]arr1 = new int[size];
+            sw.Restart();
+            for(int i=0; i<size; ++i) arr1[i] = i;
+            sw.Stop();
+            Console.WriteLine("using normal array" + sw.ElapsedTicks);
+
 
 
 
