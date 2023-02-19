@@ -15,6 +15,7 @@ namespace Performance
         {
             //-----------------------------
             // Do the Practice for CSharp Coding here
+            // 4X Performance here in this code
             Console.WriteLine("1st Performance Optimization");
             const int size = 10000;
             List<int> li = new List<int>();
