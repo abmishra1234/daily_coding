@@ -1,0 +1,8 @@
+C:\Abinash-Work\daily_coding\DailyImprovements\Performance\bin\Release\Performance.exe.config
+C:\Abinash-Work\daily_coding\DailyImprovements\Performance\bin\Release\Performance.exe
+C:\Abinash-Work\daily_coding\DailyImprovements\Performance\bin\Release\Performance.pdb
+C:\Abinash-Work\daily_coding\DailyImprovements\Performance\obj\Release\Performance.csproj.AssemblyReference.cache
+C:\Abinash-Work\daily_coding\DailyImprovements\Performance\obj\Release\Performance.csproj.SuggestedBindingRedirects.cache
+C:\Abinash-Work\daily_coding\DailyImprovements\Performance\obj\Release\Performance.csproj.CoreCompileInputs.cache
+C:\Abinash-Work\daily_coding\DailyImprovements\Performance\obj\Release\Performance.exe
+C:\Abinash-Work\daily_coding\DailyImprovements\Performance\obj\Release\Performance.pdb
